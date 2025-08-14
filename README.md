@@ -1,4 +1,4 @@
-# 🚀 Days 20 and 21 - Instances, State and Higher Order Functions
+# 🚀 Days 20 and 21 - Animations and Coordinates
 100 Days of Code - Python Bootcamp (Days 20 and 21)
 
 This repository contains **Days 20 and 21** code of the [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNINGBR) course by Angela Yu on Udemy.
